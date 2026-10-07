@@ -23,10 +23,11 @@ class CalculatorTest {
 
     @BeforeEach
     void setUp() {
-        calculator = new Calculator();
 
+        calculator = new Calculator();
     }
 
+    // test
 
     // ==========================================================
     // GRUPPE 2: Methoden mit Rückgabewert (add)
